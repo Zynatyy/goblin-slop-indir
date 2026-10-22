@@ -4,7 +4,7 @@
 
 ## İndir (Windows)
 
-**Son sürüm: v0.6**
+**Son sürüm: v0.7**
 
 **[GoblinSlop-win.zip indir (77 MB)](https://github.com/Zynatyy/goblin-slop-indir/releases/latest/download/GoblinSlop-win.zip)** (her zaman en son sürüm)
 
@@ -12,10 +12,9 @@
 2. `GoblinSlop.exe` dosyasını çalıştır.
 3. Arkadaşlarınla oynamak için herkesin Steam'i açık olmalı ve herkes aynı sürümü kullanmalı.
 
-### v0.6'da neler var
+### v0.7'de neler var
 
-- **Görüntü stilleri:** Tüp TV, Kan Kırmızısı, Piksel, VHS Kaset, Minyatür, Eski Film.
-- **Yeni ayarlar:** parlaklık, arayüz boyutu, goblin sesleri, kombo sayacını kapatma.
-- Önceki sürümden: goblin mancınığı, koçbaşı, oyun sonu ödülleri, kombo sayacı, yama notları.
+- **Cüce Tüfeği:** Dükkândan alınır. Dürbünlü, termal nişangâhlı (Y), mermisi 3 goblini deler.
+- Önceki sürümlerden: görüntü stilleri, parlaklık ve arayüz ayarları, goblin mancınığı, koçbaşı, oyun sonu ödülleri, kombo sayacı.
 
 Tüm sürümler ve yenilikler: [Releases](https://github.com/Zynatyy/goblin-slop-indir/releases)
