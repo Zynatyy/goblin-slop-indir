@@ -1,15 +1,13 @@
-﻿# Goblin Slop
+# Goblin Slop
 
 1-4 kişilik co-op kale savunma oyunu.
 
 ## İndir (Windows)
 
-**[GoblinSlop-win.zip indir (76 MB)](https://github.com/Zynatyy/goblin-slop-indir/releases/download/v0.3/GoblinSlop-win.zip)**
+**[GoblinSlop-win.zip indir (77 MB)](https://github.com/Zynatyy/goblin-slop-indir/releases/latest/download/GoblinSlop-win.zip)** (her zaman en son sürüm)
 
 1. Zip'i bir klasöre çıkar.
 2. `GoblinSlop.exe` dosyasını çalıştır.
-3. Arkadaşlarınla oynamak için herkesin Steam'i açık olmalı.
+3. Arkadaşlarınla oynamak için herkesin Steam'i açık olmalı ve herkes aynı sürümü kullanmalı.
 
-Sürümler: [Releases](https://github.com/Zynatyy/goblin-slop-indir/releases)
-
-
+Sürümler ve yenilikler: [Releases](https://github.com/Zynatyy/goblin-slop-indir/releases)
