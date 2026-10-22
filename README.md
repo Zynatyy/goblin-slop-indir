@@ -4,7 +4,7 @@
 
 ## İndir (Windows)
 
-**Son sürüm: v0.7**
+**Son sürüm: v0.7.1**
 
 **[GoblinSlop-win.zip indir (77 MB)](https://github.com/Zynatyy/goblin-slop-indir/releases/latest/download/GoblinSlop-win.zip)** (her zaman en son sürüm)
 
