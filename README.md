@@ -4,13 +4,17 @@
 
 ## İndir (Windows)
 
-**Son sürüm: v0.10**
+**Son sürüm: v0.10.1**
 
 **[GoblinSlop-win.zip indir (81 MB)](https://github.com/Zynatyy/goblin-slop-indir/releases/latest/download/GoblinSlop-win.zip)** (her zaman en son sürüm)
 
 1. Zip'i bir klasöre çıkar.
 2. `GoblinSlop.exe` dosyasını çalıştır.
 3. Arkadaşlarınla oynamak için herkesin Steam'i açık olmalı ve herkes aynı sürümü kullanmalı.
+
+### v0.10.1'de neler var
+
+- **Yükleme ekranı:** Oyun açılırken ve oyuna geçerken artık ekran donmuyor; bir goblin kütüğü kemirerek yüklemeyi gösteriyor.
 
 ### v0.10'da neler var
 
