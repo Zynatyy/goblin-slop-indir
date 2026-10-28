@@ -4,13 +4,21 @@
 
 ## İndir (Windows)
 
-**Son sürüm: v0.10.1**
+**Son sürüm: v0.11**
 
-**[GoblinSlop-win.zip indir (81 MB)](https://github.com/Zynatyy/goblin-slop-indir/releases/latest/download/GoblinSlop-win.zip)** (her zaman en son sürüm)
+**[GoblinSlop-win.zip indir (98 MB)](https://github.com/Zynatyy/goblin-slop-indir/releases/latest/download/GoblinSlop-win.zip)** (her zaman en son sürüm)
 
 1. Zip'i bir klasöre çıkar.
 2. `GoblinSlop.exe` dosyasını çalıştır.
 3. Arkadaşlarınla oynamak için herkesin Steam'i açık olmalı ve herkes aynı sürümü kullanmalı.
+
+### v0.11'de neler var
+
+- **Yolculuk:** 9. dalga bitince gizli garaj açılır; iki motorla (biri sürer, biri arkada makineli tüfekte) goblin ormanının içinden açılan yoldan çıkılır. Yol boyunca kalabalık goblinler.
+- **Yolun sonu:** Tepede tüfekler ve bir platform, aşağıda TNT varilli goblin kampı. Kampı temizle, teleferikle in, kendi kampını çekiçle kur. (Oradaki savunma yakında.)
+- **Mektup:** Oyun, balonlu bir goblin kuryenin getirdiği mektupla başlar.
+- **Kahramanlar:** Dört kapüşonlu kaldı: Ember, Lumo, Gusty, Volt.
+- Yeni ana menü (goblin kazanı mağarası), balonlu goblinler, yeni müzikler, test için F2 menüsü (oyunu kuran açar).
 
 ### v0.10.1'de neler var
 
