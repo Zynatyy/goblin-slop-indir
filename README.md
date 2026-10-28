@@ -4,13 +4,18 @@
 
 ## İndir (Windows)
 
-**Son sürüm: v0.11**
+**Son sürüm: v0.11.1**
 
 **[GoblinSlop-win.zip indir (98 MB)](https://github.com/Zynatyy/goblin-slop-indir/releases/latest/download/GoblinSlop-win.zip)** (her zaman en son sürüm)
 
 1. Zip'i bir klasöre çıkar.
 2. `GoblinSlop.exe` dosyasını çalıştır.
 3. Arkadaşlarınla oynamak için herkesin Steam'i açık olmalı ve herkes aynı sürümü kullanmalı.
+
+### v0.11.1'de neler var
+
+- **Ortak oyun:** Kamptaki goblinler arkadaşının ekranında da doğru yerde görünüyor ve vuruluyor; motorun arkasındaki makineli tüfek herkeste görünüyor.
+- **Yolculuk:** Yol kenarındaki goblinler yürüyor ve motorun önüne atılıyor; motor daha az hasar alıyor; motordan inince yol goblinlerine vurulabiliyor; motor tepede duruyor.
 
 ### v0.11'de neler var
 
