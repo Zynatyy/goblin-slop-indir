@@ -4,16 +4,20 @@
 
 ## İndir (Windows)
 
-**Son sürüm: v0.11.1**
+**Son sürüm: v0.12**
 
-**[GoblinSlop-win.zip indir (98 MB)](https://github.com/Zynatyy/goblin-slop-indir/releases/latest/download/GoblinSlop-win.zip)** (her zaman en son sürüm)
+**[GoblinSlop-win.zip indir (101 MB)](https://github.com/Zynatyy/goblin-slop-indir/releases/latest/download/GoblinSlop-win.zip)** (her zaman en son sürüm)
 
 1. Zip'i bir klasöre çıkar.
 2. `GoblinSlop.exe` dosyasını çalıştır.
 3. Arkadaşlarınla oynamak için herkesin Steam'i açık olmalı ve herkes aynı sürümü kullanmalı.
 
-### v0.11.1'de neler var
+### v0.12'de neler var
+- **Harita yapıcı (F4):** Oyunu kuran serbest kamerayla uçup kale duvarı, kule, kapı, ev, çeşme, ağaç, kaya gibi 195 parçayı istediği yere koyar; zemini boyar, ot, çiçek, çalı ve ağaç serper, toprak ve taş yollar çizer. Ctrl+Z ile geri alınır; kaydedilen harita herkeste aynı görünür.
+- **Yolculuk:** Motorun önüne goblinler fırlatılıyor, yolun üstünde balonlu goblinler var; yolun araziye gömüldüğü yerler düzeldi.
+- **Ana menü:** Goblinler gerçek animasyonlarla dans ediyor, oturuyor ve göz kırpıyor.
 
+### v0.11.1'de neler var
 - **Ortak oyun:** Kamptaki goblinler arkadaşının ekranında da doğru yerde görünüyor ve vuruluyor; motorun arkasındaki makineli tüfek herkeste görünüyor.
 - **Yolculuk:** Yol kenarındaki goblinler yürüyor ve motorun önüne atılıyor; motor daha az hasar alıyor; motordan inince yol goblinlerine vurulabiliyor; motor tepede duruyor.
 
